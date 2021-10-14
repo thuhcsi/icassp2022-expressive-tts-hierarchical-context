@@ -51,7 +51,7 @@ To explore the impact of contextual information on the expressiveness of synthes
 
 | Context | Target Chinese Text | Audio | Mel-Spectrogram |
 | :---- | :---- | :---- | :---: |
-| original context | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/proposed.png" width="50%"> |
-| irrelevant context | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/random.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/random.png" width="50%"> |
-| no context | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/self.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/self.png" width="50%"> |
+| original context | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/proposed.png" width="25%"> |
+| irrelevant context | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/random.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/random.png" width="25%"> |
+| no context | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/self.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/self.png" width="25%"> |
 
